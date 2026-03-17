@@ -23,10 +23,13 @@ jobs:
           python-version: "3.12"
 
       - name: Install dependencies
-        run: pip install requests
+        run: pip install requests openpyxl
 
       - name: Fetch forward curves
         run: python fetch_curves.py
+
+      - name: Export to Excel
+        run: python export_excel.py
 
       - name: Commit and push updated data
         run: |
