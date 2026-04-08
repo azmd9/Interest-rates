@@ -67,3 +67,7 @@ run_timestamp,curve,status
 2026-04-07T19:08:41.301639+00:00,3M_EURIBOR,ok
 2026-04-07T19:08:41.301639+00:00,6M_EURIBOR,ok
 2026-04-07T19:08:41.301639+00:00,3M_SONIA,ok
+2026-04-08T19:21:31.736893+00:00,1M_EURIBOR,error: 404 Client Error: Not Found for url: https://www.chathamfinancial.com/getrates/158031
+2026-04-08T19:21:31.736893+00:00,3M_EURIBOR,error: 404 Client Error: Not Found for url: https://www.chathamfinancial.com/getrates/143818
+2026-04-08T19:21:31.736893+00:00,6M_EURIBOR,error: 404 Client Error: Not Found for url: https://www.chathamfinancial.com/getrates/216482
+2026-04-08T19:21:31.736893+00:00,3M_SONIA,error: 404 Client Error: Not Found for url: https://www.chathamfinancial.com/getrates/195503
