@@ -119,3 +119,7 @@ run_timestamp,curve,status
 2026-04-24T18:57:03.093293+00:00,3M_EURIBOR,error: 500 Server Error: Internal Server Error for url: https://cf.com/rates
 2026-04-24T18:57:03.093293+00:00,6M_EURIBOR,error: 500 Server Error: Internal Server Error for url: https://cf.com/rates
 2026-04-24T18:57:03.093293+00:00,3M_SONIA,error: 500 Server Error: Internal Server Error for url: https://cf.com/rates
+2026-04-27T19:27:28.989756+00:00,1M_EURIBOR,error: 500 Server Error: Internal Server Error for url: https://cf.com/rates
+2026-04-27T19:27:28.989756+00:00,3M_EURIBOR,error: 500 Server Error: Internal Server Error for url: https://cf.com/rates
+2026-04-27T19:27:28.989756+00:00,6M_EURIBOR,error: 500 Server Error: Internal Server Error for url: https://cf.com/rates
+2026-04-27T19:27:28.989756+00:00,3M_SONIA,error: 500 Server Error: Internal Server Error for url: https://cf.com/rates
