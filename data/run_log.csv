@@ -727,3 +727,7 @@ run_timestamp,curve,status
 2026-11-26T01:39:35.534440+00:00,3M_EURIBOR,error: 403 Client Error: Forbidden for url: https://cf.com/rates
 2026-11-26T01:39:35.534440+00:00,6M_EURIBOR,error: 403 Client Error: Forbidden for url: https://cf.com/rates
 2026-11-26T01:39:35.534440+00:00,3M_SONIA,error: 403 Client Error: Forbidden for url: https://cf.com/rates
+2026-11-27T01:33:16.064695+00:00,1M_EURIBOR,error: 403 Client Error: Forbidden for url: https://cf.com/rates
+2026-11-27T01:33:16.064695+00:00,3M_EURIBOR,error: 403 Client Error: Forbidden for url: https://cf.com/rates
+2026-11-27T01:33:16.064695+00:00,6M_EURIBOR,error: 403 Client Error: Forbidden for url: https://cf.com/rates
+2026-11-27T01:33:16.064695+00:00,3M_SONIA,error: 403 Client Error: Forbidden for url: https://cf.com/rates
